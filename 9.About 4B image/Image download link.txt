@@ -2,7 +2,6 @@ Image Download Link:
 https://drive.google.com/open?id=1hAH3K0AheyjlIlZSY6JsI1woDFCFNGW4
 
 
-
-System login £º
+System login :
 user name: pi 
 Password: yahboom
